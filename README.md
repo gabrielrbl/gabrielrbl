@@ -4,10 +4,10 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## Eu sou estudante de Análise e Desenvolvimento de Sistema
+## Graduado em Análise e Desenvolvimento de Sistema
 
 - 👨‍💻 Atualmente estou trabalhando no desenvolvimento de tecnologias utilizando Django, React etc.
-- 📚 Atualmente estou aprendendo tudo sobre tecnologias mobile 😅
+- 📚 Atualmente estou aprendendo sobre infraestrutura 😅
 - 💪🏼 Metas futuras: aprender mais tecnologias - nunca pare de criar novas ideias. 
 
 ---
