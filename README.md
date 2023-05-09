@@ -1,18 +1,18 @@
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=gabrielrbl&repo=gabrielrbl&countColorcountColor&countColor=%237B1E7B"/>
 
-# Olá, eu sou Gabriel Lobo <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hello, I'm Gabriel Lobo <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## Graduado em Análise e Desenvolvimento de Sistema
+## Graduated in System Analysis and Development
 
-- 👨‍💻 Atualmente estou trabalhando no desenvolvimento de tecnologias utilizando Django, React etc.
-- 📚 Atualmente estou aprendendo sobre infraestrutura 😅
-- 💪🏼 Metas futuras: aprender mais tecnologias - nunca pare de criar novas ideias. 
+- 👨‍💻 I'm currently working on developing technologies using Django, React etc.
+- 📚 I'm currently learning about infrastructure 😅
+- 💪🏼 Future goals: learn more technologies - never stop creating new ideas.
 
 ---
 
-### Linguagens e Ferramentas 🛠 
+### Languages and Tools 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
@@ -43,7 +43,7 @@
 
 <br/>
 
-  <h2 align="center"> Estatísticas Github 📈 </h2>
+  <h2 align="center"> Github stats 📈 </h2>
   
   <div align="center"> 
     <img align="center" src="https://github-readme-stats-gabrielrbl.vercel.app/api?username=gabrielrbl&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
@@ -54,7 +54,7 @@
 
 ---
 
-### Entre em contato comigo 📝
+### Contact me 📝
 
 <p align="center">
 &nbsp; <a href="https://www.instagram.com/gabrielrbl" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
